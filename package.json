@@ -1,7 +1,7 @@
 {
-  "name": "gimkit-chat-injector",
+  "name": "GimJector",
   "version": "6.0.0",
-  "description": "Gimkit chat injector — browser bridge server",
+  "description": "Gimkit bot injector — browser bridge server",
   "type": "module",
   "main": "server.js",
   "scripts": {
